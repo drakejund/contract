@@ -1,0 +1,9 @@
+[36m2018-05-12 08:11:04.685 UTC [msp] GetLocalMSP -> DEBU 001[0m Returning existing local MSP
+[36m2018-05-12 08:11:04.685 UTC [msp] GetDefaultSigningIdentity -> DEBU 002[0m Obtaining default signing identity
+2018-05-12 08:11:04.686 UTC [chaincodeCmd] checkChaincodeCmdParams -> INFO 003[0m Using default escc
+2018-05-12 08:11:04.686 UTC [chaincodeCmd] checkChaincodeCmdParams -> INFO 004[0m Using default vscc
+[36m2018-05-12 08:11:04.686 UTC [chaincodeCmd] getChaincodeSpec -> DEBU 005[0m java chaincode disabled
+[36m2018-05-12 08:11:04.686 UTC [msp/identity] Sign -> DEBU 006[0m Sign: plaintext: 0AB0070A6808031A0C0898C3DAD70510...2270726F647563744964223A2231227D 
+[36m2018-05-12 08:11:04.686 UTC [msp/identity] Sign -> DEBU 007[0m Sign: digest: A6190F3DBCAFFB981CB45AE31EC9329907203B5F244D6850CEBF1883A12E8D0F 
+Query Result: 
+2018-05-12 08:11:04.720 UTC [main] main -> INFO 008[0m Exiting.....
